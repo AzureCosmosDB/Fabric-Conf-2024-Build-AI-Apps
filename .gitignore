@@ -1,6 +1,9 @@
-# env file for python
-fabcondemo.env
+# env file and data for python
+fabconf.env
 z-code-dump.ipynb
+*.json
+__MACOSX
+/Data/__MACOSX/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -14,7 +17,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+dist/   
 downloads/
 eggs/
 .eggs/
